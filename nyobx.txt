@@ -1,0 +1,38 @@
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+# Made With ❤️ By Team CodeCrafters.
+# Keys Extracted By @ajsuxhhjsbdhd and "Admin 2" (CodeCrafters.) 💚
+# Heroku (Hosting) By @ExWhyZed9 💙
+# Last Update: 08/07/2023 📅
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tata-thecodecrafters-62f266e724ae.herokuapp.com/key?payload=gAAAAABkqXB4T9vy2OO0VLm6Xkq5lBVcj8zSkKbM97GL0ae_WPNF1ndijV7ZyXqqDbb920rc0fpRClgjzbB5vtsNoO9qU4jU6vu2VCzsnA9WgheuaxQssQE4HfzyJbOAQgdPrevdAbjOF9SJw9SQny_-So-3gm-UVIDepefa5QuPjxLC8e6uZ-o=
+#EXTINF:-1 tvg-id="ts840" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" group-title="Spiritual",Shirdi Sai Baba
+https://delta45tatasky.akamaized.net/out/i/554.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.1.1/clear/api/results.php?keyid=98aa90cb620b972a0d0d66a51cdaca56&key=6e8bd53378356ed7f5103d91efb5e54e
+#EXTINF:-1 tvg-id="ts292" group-title="Sport - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" ,Sport 18
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.1.1/clear/api/results.php?keyid=bc0e4c7dfb10d483357572000180cca5&key=247351382fcd721f2872c4bda15c5245
+#EXTINF:-1 tvg-id="ts292" group-title="Sport - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" ,Sport 18a
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.1.1/clear/api/results.php?keyid=ea0a062b63b4b0a58b35e10c02bf0ab9&key=4cc4d32453d2d29831b0a733d2763f69
+#EXTINF:-1 tvg-id="ts292" group-title="Sport - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" ,Sport 18b
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
+http://192.168.1.1/clear/api/results.php?keyid=ea0a062b63b4b0a58b35e10c02bf0ab9&key=4cc4d32453d2d29831b0a733d2763f69
