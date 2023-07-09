@@ -33,6 +33,4 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://192.168.1.1/clear/api/results.php?keyid=ea0a062b63b4b0a58b35e10c02bf0ab9&key=4cc4d32453d2d29831b0a733d2763f69
 #EXTINF:-1 tvg-id="ts292" group-title="Sport - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" ,Sport 18b
-https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
-http://192.168.1.1/clear/api/results.php?keyid=ea0a062b63b4b0a58b35e10c02bf0ab9&key=4cc4d32453d2d29831b0a733d2763f69
